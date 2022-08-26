@@ -1,0 +1,6 @@
+Sleep(2000)
+Send("File Name")
+sleep(3000)
+Send("printFileName")
+Sleep(2000)
+send("{ENTER}")
