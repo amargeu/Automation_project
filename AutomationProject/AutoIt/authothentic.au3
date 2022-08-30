@@ -1,0 +1,8 @@
+sleep(2000)
+send("admin")
+sleep(3000)
+send("{TAB}")
+sleep(2000)
+send("admin")
+send("{TAB}")
+send("{ENTER}")
